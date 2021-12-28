@@ -1,0 +1,22 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        " RS",
+        "RDS",
+        " RS"
+    ],
+    "key": {
+        "R": {
+            "item": "minecraft:stick"
+        },
+        "S": {
+            "item": "minecraft:string"
+        },
+        "D": {
+            "item": "minecraft:dropper"
+        }
+    },
+    "result": {
+      "item": "minecraft:dispenser"
+    }
+  }

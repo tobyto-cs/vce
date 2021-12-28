@@ -1,0 +1,8 @@
+{
+    "type": "smelting",
+    "ingredient": {
+        "item": "minecraft:magenta_wool"
+    },
+    "result": "minecraft:magenta_dye",
+    "cookingtime": 100
+}

@@ -1,0 +1,8 @@
+{
+    "type": "smelting",
+    "ingredient": {
+        "item": "minecraft:white_wool"
+    },
+    "result": "minecraft:white_dye",
+    "cookingtime": 100
+}

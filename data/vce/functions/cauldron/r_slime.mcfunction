@@ -1,0 +1,1 @@
+execute as @s run data merge entity @s {Item:{id:"minecraft:slime_ball"}}

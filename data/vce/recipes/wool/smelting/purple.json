@@ -1,0 +1,8 @@
+{
+    "type": "smelting",
+    "ingredient": {
+        "item": "minecraft:purple_wool"
+    },
+    "result": "minecraft:purple_dye",
+    "cookingtime": 100
+}
