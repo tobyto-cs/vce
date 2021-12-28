@@ -1,1 +1,0 @@
-effect give @e[type=player,scores={ttvce_health=..10},nbt=!{ActiveEffects:[{Id:10b}]}] minecraft:regeneration 1 2 true
